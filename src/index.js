@@ -119,5 +119,4 @@ function createItem(hits) {
 
 function clearContainer() {
   gallery.innerHTML = '';
-}
-
+};
